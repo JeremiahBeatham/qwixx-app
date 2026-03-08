@@ -215,7 +215,7 @@ const QwixxBoard = () => {
     const blueScore = calculateScore(blueRow);
     const penaltyScore = penalties * 5;
     
-    const gameUrl = 'https://qwixx-app.netlify.app/';
+    const gameUrl = 'https://qwixxapp.netlify.app/';
     
     const message = `🎲 Qwixx Score 🎲
 
