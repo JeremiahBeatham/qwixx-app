@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from ‘react’;
-import { X, RotateCcw, Trophy, Share2, Ban, Moon, Sun } from ‘lucide-react’;
+import React, { useState, useEffect } from 'react';
+import { X, RotateCcw, Trophy, Share2, Ban, Moon, Sun } from 'lucide-react';
 
 const QwixxBoard = () => {
 const [redRow, setRedRow] = useState(Array(12).fill(false));
