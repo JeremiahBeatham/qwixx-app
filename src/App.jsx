@@ -240,7 +240,7 @@ ${gameUrl}`;
   };
 
   const theme = darkMode ? {
-    bg: '#4a5d4f',
+    bg: '#1f2937',
     cardBg: '#1f2937',
     text: '#f3f4f6',
     subText: '#d1d5db',
