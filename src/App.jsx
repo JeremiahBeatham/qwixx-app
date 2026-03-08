@@ -309,7 +309,7 @@ ${gameUrl}`;
                   alignItems: 'center',
                   justifyContent: 'center',
                   fontWeight: 'bold',
-                  position: 'relative',
+                  position: 'relative', fontFamily: "'Inter', Arial, sans-serif"
                   opacity: row[11] ? 1 : 0.4
                 }}
               >
